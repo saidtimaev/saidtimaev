@@ -1,4 +1,4 @@
-![Header image](https://github.com/saidtimaev/saidtimaev/blob/main/img/_Banner.png)
+![Header image](https://github.com/saidtimaev/saidtimaev/blob/main/img/Banner.png)
 
 
 
